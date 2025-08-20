@@ -1,0 +1,27 @@
+# 🛠 Build and distribution folders
+build/
+dist/
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+
+# 📦 Virtual environment (if any)
+venv/
+env/
+
+# 🔧 PyInstaller artifacts
+*.spec
+
+# 📁 System files
+.DS_Store
+Thumbs.db
+
+# 🧪 Logs and temporary files
+*.log
+*.tmp
+
+# 💻 IDE/editor configs (optional)
+.vscode/
+.idea/
+*.swp
